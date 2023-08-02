@@ -13,3 +13,6 @@ Para ejecutar este programa, necesitas tener instalado Python en tu computadora.
 - El programa utiliza funciones auxiliares para determinar si un número es primo, si es cuadrado perfecto y si es par.
 - Se asume que el número proporcionado es un entero positivo.
 - Los números de Fibonacci se generan utilizando la fórmula de Binet.
+
+### Contribuciones
+Si encuentras algún error o tienes alguna mejora que aportar, ¡siéntete libre de contribuir! Crea un pull request o abre un issue para discutir tus ideas.
